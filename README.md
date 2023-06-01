@@ -35,7 +35,8 @@ Sou um desenvolvedor web com 1 ano de experiência, mas na área de T.I tenho ex
 Tenho experiência em gerenciamento de servidores, garantindo que tudo esteja funcionando sem problemas e resolvendo quaisquer problemas que possam surgir.
 
 ## Contate-me
-- LinkedIn: [danilo-aguiar-97729023a](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
-- E-mail: dansilvaagr@hotmail.com
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
+[![](https://img.shields.io/badge/Email-239120?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dansilvaagr@hotmail.com)
+
 
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight)
