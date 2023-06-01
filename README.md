@@ -1,11 +1,13 @@
 # Olá, sou Danilo Aguiar 👋
 
 ## Sobre mim
-Sou um desenvolvedor web com 1 ano de experiência, apaixonado por tecnologia. Tenho sólidas habilidades em várias linguagens, frameworks e ferramentas, e tenho uma paixão particular por React e Node.
+Sou um desenvolvedor web com 1 ano de experiência, mas na area de T.I tenho expêriencia de 5 anos, pois sempre fui apaixonado por tecnologia. Tenho sólidas habilidades em várias linguagens, frameworks e ferramentas.
 
 ## Linguagens
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
 ## Frameworks e Bibliotecas
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -14,12 +16,13 @@ Sou um desenvolvedor web com 1 ano de experiência, apaixonado por tecnologia. T
 
 ## Banco de Dados
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-
-## Tecnologias de Front-end
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a)
 
 ## Ferramentas de DevOps
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+## Controle de Versão
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 ## Sistemas Operacionais
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
