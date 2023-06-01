@@ -3,6 +3,10 @@
 ## Sobre mim
 Sou um desenvolvedor web com 1 ano de experiência, mas na área de T.I tenho experiência de 5 anos, pois sempre fui apaixonado por tecnologia. Tenho sólidas habilidades em várias linguagens, frameworks e ferramentas.
 
+## Contate-me
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
+[![](https://img.shields.io/badge/Email-239120?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dansilvaagr@hotmail.com)
+
 ## Linguagens
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -33,10 +37,5 @@ Sou um desenvolvedor web com 1 ano de experiência, mas na área de T.I tenho ex
 
 ## Gerenciamento de Servidores
 Tenho experiência em gerenciamento de servidores, garantindo que tudo esteja funcionando sem problemas e resolvendo quaisquer problemas que possam surgir.
-
-## Contate-me
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
-[![](https://img.shields.io/badge/Email-239120?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dansilvaagr@hotmail.com)
-
 
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight)
