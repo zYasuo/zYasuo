@@ -22,6 +22,7 @@ Sou um desenvolvedor web com 1 ano de experiência, mas na área de T.I tenho ex
 ![](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Containers-3861FB?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## Controle de Versão
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
