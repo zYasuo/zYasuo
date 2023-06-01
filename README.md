@@ -36,7 +36,7 @@ Tenho experiência em gerenciamento de servidores, garantindo que tudo esteja fu
 
 ## Contate-me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
-[![](https://img.shields.io/badge/Email-239120?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dansilvaagr@hotmail.com)
+- E-mail: dansilvaagr@hotmail.com
 
 
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight)
