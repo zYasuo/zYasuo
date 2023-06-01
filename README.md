@@ -35,4 +35,4 @@ Tenho experiência em gerenciamento de servidores, garantindo que tudo esteja fu
 - LinkedIn: [danilo-aguiar-97729023a](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
 - E-mail: dansilvaagr@hotmail.com
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=t
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight)
