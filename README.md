@@ -39,4 +39,4 @@ Tenho experiência em gerenciamento de servidores, garantindo que tudo esteja fu
 - E-mail: dansilvaagr@hotmail.com
 
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight)
+
