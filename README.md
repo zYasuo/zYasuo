@@ -1,7 +1,7 @@
 # Olá, sou Danilo Aguiar 👋
 
 ## Sobre mim
-Sou um desenvolvedor web com 1 ano de experiência, mas na área de T.I tenho experiência de 5 anos, pois sempre fui apaixonado por tecnologia. Tenho sólidas habilidades em várias linguagens, frameworks e ferramentas.
+Sou um desenvolvedor web com 2 ano de experiência, mas na área de T.I tenho experiência de 5 anos, pois sempre fui apaixonado por tecnologia. Tenho sólidas habilidades em várias linguagens, frameworks e ferramentas.
 
 ## Linguagens
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
