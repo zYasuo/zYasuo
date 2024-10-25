@@ -45,8 +45,9 @@ Tenho experiência em gerenciamento de servidores, garantindo que tudo esteja fu
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zYasuo&layout=compact&theme=tokyonight)
 
-## Tempo em linguagens (via WakaTime)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zYasuo&layout=compact&theme=tokyonight)](https://wakatime.com/@zYasuo)
+## Minhas Conquistas
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=zYasuo&theme=tokyonight)](https://github.com/zYasuo)
+
 
 
 
