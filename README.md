@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zYasuo&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zYasuo&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
