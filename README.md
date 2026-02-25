@@ -111,14 +111,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" />
-<img src="https://github-readme-streak-stats.demolab.com?user=zYasuo&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+<a href="https://github.com/zYasuo">
+  <img src="https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+</a>
+<a href="https://github.com/zYasuo">
+  <img src="https://github-readme-streak-stats.demolab.com?user=zYasuo&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYasuo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+<a href="https://github.com/zYasuo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYasuo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</a>
 
 </div>
 
