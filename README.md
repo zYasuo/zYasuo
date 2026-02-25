@@ -22,13 +22,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" /> About me
+## 👨‍💻 About me
 
 **Full Stack** developer with experience in **NestJS**, **Next.js**, **React**, and **Node.js** — modular architecture, queues (BullMQ), cache (Redis), and integrations with payment and AI APIs. I work with **DDD**, **SOLID**, **TDD**, **Clean Code**, and agile methodologies (Scrum, Kanban).
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="32" /> Stack
+## ⚙️ Stack
 
 <table>
   <tr>
@@ -95,7 +95,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="32" /> Highlights
+## ✨ Highlights
 
 - Backend with **NestJS**, Prisma, BullMQ, and Redis in a modular architecture  
 - **Unit**, **E2E**, and **load** testing with Jest  
@@ -107,7 +107,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Charts/Chart%20Increasing.png" width="32" /> Stats
+## 📈 Stats
 
 <div align="center">
 
