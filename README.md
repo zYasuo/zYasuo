@@ -1,74 +1,139 @@
-# Olá, sou Danilo Aguiar 👋
+<div align="center">
 
-Sou Desenvolvedor Full Stack com experiência em **React**, **Next.js**, **Node.js**, **Laravel**, **Delphi**, **DevOps**, automações e integrações em cloud. Atualmente, atuo com soluções modernas voltadas à performance, escalabilidade e boas práticas de desenvolvimento como **SOLID**, **DDD**, **TDD** e **Clean Code**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Danilo+Aguiar;Full+Stack+Developer;NestJS+%C2%B7+Next.js+%C2%B7+React" alt="Typing SVG" />
 
----
+<p>
+  <img src="https://img.shields.io/badge/dansilvaagr%40hotmail.com-Email?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
+  <img src="https://img.shields.io/badge/%2B55%2019%2099933--72271-Phone?style=for-the-badge&logo=phone&logoColor=white&color=238636" />
+</p>
 
-## 🚀 Tecnologias e Ferramentas
+<p>
+  <a href="https://github.com/zYasuo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/danilo-aguiar-97729023a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header" />
 
-### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EF2D56?style=for-the-badge&logo=embarcadero&logoColor=white)
-
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ORM
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FF4785?style=for-the-badge&logo=typescript&logoColor=white)
-
-### DevOps e Infraestrutura
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-### Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</div>
 
 ---
 
-## 🧠 Habilidades Técnicas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" /> About me
 
-- Desenvolvimento Full Stack com foco em performance, escalabilidade e acessibilidade
-- Integração e construção de APIs RESTful
-- Testes automatizados com TDD e integração contínua (CI/CD)
-- Experiência com microsserviços e arquitetura MVC
-- Deploy e manutenção de aplicações em ambientes de produção com AWS, Apache e HTTPS
-- Familiaridade com metodologias ágeis (Scrum, Kanban)
+**Full Stack** developer with experience in **NestJS**, **Next.js**, **React**, and **Node.js** — modular architecture, queues (BullMQ), cache (Redis), and integrations with payment and AI APIs. I work with **DDD**, **SOLID**, **TDD**, **Clean Code**, and agile methodologies (Scrum, Kanban).
 
 ---
 
-## 📫 Contato
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="32" /> Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zYasuo)  
-✉️ E-mail: dansilvaagr@hotmail.com
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Front-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zustand-000?style=flat-square&logo=zustand" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Delphi-EF2D56?style=flat-square&logo=embarcadero&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeORM-FE0928?style=flat-square&logo=typeorm&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Linguagens Mais Usadas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="32" /> Highlights
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zYasuo&layout=compact&theme=tokyonight)
+- Backend with **NestJS**, Prisma, BullMQ, and Redis in a modular architecture  
+- **Unit**, **E2E**, and **load** testing with Jest  
+- Integrations with **Stripe**, **Asaas**, **Cielo**, **OpenAI**, **Google**  
+- **WebSockets** and **Webhooks** for real-time and payment flows  
+- **Next.js** front-end with React Query, Zustand, and **mobile-first** design (Figma)  
+- Infra with **Docker**, **Digital Ocean**, **AWS**, and **GitHub Actions**  
+- **DDD**, **SOLID**, API docs (Scalar), and agile methodologies  
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Charts/Chart%20Increasing.png" width="32" /> Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zYasuo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" />
+<img src="https://github-readme-streak-stats.demolab.com?user=zYasuo&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYasuo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zYasuo&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" />
+
+[GitHub](https://github.com/zYasuo) · [LinkedIn](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
+
+</div>
