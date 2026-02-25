@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Danilo+Aguiar;Full+Stack+Developer;NestJS+%C2%B7+Next.js+%C2%B7+React" alt="Typing SVG" />
+# Hi, I'm Danilo Aguiar 👋
+
+**Full Stack Developer**
 
 <p>
   <img src="https://img.shields.io/badge/dansilvaagr%40hotmail.com-Email?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
-  <img src="https://img.shields.io/badge/%2B55%2019%2099933--72271-Phone?style=for-the-badge&logo=phone&logoColor=white&color=238636" />
 </p>
 
 <p>
