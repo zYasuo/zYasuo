@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zYasuo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zYasuo&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
