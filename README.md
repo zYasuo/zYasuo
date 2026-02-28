@@ -1,40 +1,61 @@
 # Danilo Aguiar
 
-**Full Stack Developer**
+### Full Stack Engineer · Backend-Focused · Systems & Integrations
 
-[dansilvaagr@hotmail.com](mailto:dansilvaagr@hotmail.com) · [GitHub](https://github.com/zYasuo) · [LinkedIn](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
+<p align="left">
+  <a href="mailto:dansilvaagr@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail">
+  </a>
+  <a href="https://github.com/zYasuo">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/danilo-aguiar-97729023a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin">
+  </a>
+</p>
 
 ---
 
 ## About
 
-Full stack developer with experience in **NestJS**, **Next.js**, **React**, and **Node.js**: modular architecture, message queues (BullMQ), caching (Redis), and integrations with payment and AI APIs. I apply **DDD**, **SOLID**, **TDD**, and **Clean Code**, and work with agile methodologies (Scrum, Kanban).
+Engineer focused on building scalable systems, robust backend architectures, and high-performance integrations.
+
+Strong experience designing APIs, distributed services, payment flows, and automation pipelines. I combine business vision with clean engineering practices to deliver maintainable and reliable software.
 
 ---
 
-## Tech Stack
+## Core Skills
 
-| Area | Technologies |
-|------|--------------|
-| **Languages** | JavaScript, TypeScript, PHP, Java |
-| **Front-end** | React, Next.js, React Native, React Query, Zustand |
-| **Back-end** | NestJS, Node.js, Express, Laravel, Delphi |
-| **Data** | PostgreSQL, MySQL, Redis, MongoDB, Prisma, TypeORM |
-| **DevOps & Cloud** | Docker, GitHub Actions, AWS, Digital Ocean, Azure |
-| **Tools** | Jest, Zod, Figma, Stripe, Asaas, Cielo |
-
----
-
-## Focus Areas
-
-- Backend with **NestJS**, Prisma, BullMQ, and Redis in a modular architecture
-- **Unit**, **E2E**, and **load** testing with Jest
-- Integrations with **Stripe**, **Asaas**, **Cielo**, **OpenAI**, **Google**
-- **WebSockets** and **Webhooks** for real-time and payment flows
-- **Next.js** front-end with React Query, Zustand, and mobile-first design (Figma)
-- Infrastructure with **Docker**, **Digital Ocean**, **AWS**, and **GitHub Actions**
-- **DDD**, **SOLID**, API documentation (Scalar), and agile delivery
+- Scalable backend architecture  
+- REST & real-time systems  
+- Asynchronous processing & queues  
+- Caching & performance optimization  
+- CI/CD & containerized environments  
+- Automated testing (Unit · Integration · E2E)  
+- System refactoring & technical debt reduction  
 
 ---
 
-[GitHub](https://github.com/zYasuo) · [LinkedIn](https://www.linkedin.com/in/danilo-aguiar-97729023a/)
+## Tech Highlights
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=node.js">
+  <img src="https://img.shields.io/badge/NestJS-Architecture-E0234E?style=flat&logo=nestjs">
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql">
+</p>
+
+---
+
+## Engineering Mindset
+
+- Clean Architecture  
+- DDD & SOLID principles  
+- Performance & scalability first  
+- Ownership & business-driven development  
+
+---
+
+> Building systems that scale — not just features.
