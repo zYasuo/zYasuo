@@ -1,6 +1,6 @@
 # Danilo Aguiar
 
-### Full Stack Engineer · Backend-Focused · Systems & Integrations
+### Full Stack Engineer · Backend-Focused · Scalable Systems
 
 <p align="left">
   <a href="mailto:dansilvaagr@hotmail.com">
@@ -18,19 +18,22 @@
 
 ## About
 
-Engineer focused on building scalable systems, robust backend architectures, and high-performance integrations.
+Backend-focused Full Stack Engineer specialized in designing scalable systems, distributed architectures, and high-performance integrations.
 
-Strong experience designing APIs, distributed services, payment flows, and automation pipelines. I combine business vision with clean engineering practices to deliver maintainable and reliable software.
+Experienced in building production-ready applications involving asynchronous processing, real-time communication, payment flows, and cloud infrastructure.
+
+I prioritize scalability, maintainability, and clean architecture to deliver reliable software aligned with business goals.
 
 ---
 
-## Core Skills
+## Core Expertise
 
 - Scalable backend architecture  
-- REST & real-time systems  
-- Asynchronous processing & queues  
-- Caching & performance optimization  
-- CI/CD & containerized environments  
+- REST APIs & real-time systems  
+- Distributed processing & queues  
+- Caching strategies & performance optimization  
+- Cloud infrastructure (AWS & DigitalOcean)  
+- CI/CD pipelines & containerized environments  
 - Automated testing (Unit · Integration · E2E)  
 - System refactoring & technical debt reduction  
 
@@ -39,22 +42,35 @@ Strong experience designing APIs, distributed services, payment flows, and autom
 ## Tech Highlights
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/TypeScript-Primary-3178C6?style=flat&logo=typescript">
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/NestJS-Architecture-E0234E?style=flat&logo=nestjs">
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat&logo=mongodb">
+  <img src="https://img.shields.io/badge/PostgreSQL-SQL-4169E1?style=flat&logo=postgresql">
+  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat&logo=redis">
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws">
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql">
 </p>
 
 ---
 
-## Engineering Mindset
+## Engineering Principles
 
 - Clean Architecture  
 - DDD & SOLID principles  
-- Performance & scalability first  
-- Ownership & business-driven development  
+- Test-driven mindset  
+- Performance-first thinking  
+- Business-oriented engineering  
+
+---
+
+## What I’m Currently Focused On
+
+- Designing scalable backend services  
+- Improving system reliability and fault tolerance  
+- Building cloud-native applications  
+- Continuous learning in distributed systems  
 
 ---
 
